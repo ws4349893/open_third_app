@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="files_root"
+        path="/data/data/com.titilife.halfoff/cache/" />
+    <external-path
+        name="external_storage_root"
+        path="." />
+    <files-path
+        name="images"
+        path="images/" />
+    <files-path
+        name="docs"
+        path="docs/" />
+
+    <cache-path
+        name="abc"
+        path="/"/>
+</paths>
